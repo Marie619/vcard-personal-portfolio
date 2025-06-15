@@ -770,6 +770,10 @@ main {
 /**
  * education and experience 
  */
+.degree-title{
+  color:white;
+  margin-top: 10px;
+}
 
 .timeline { margin-bottom: 30px; }
 
